@@ -6,4 +6,7 @@ ection:A
 Branch:CSE
 Year of accademic:2025
 College name:GECR
+UG Degree:BE -Computer Science
+PG Degree:M.Tech-DSA
+PhD Degree:DataScience
  
